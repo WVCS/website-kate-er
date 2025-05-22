@@ -33,4 +33,5 @@ body {
    img:hover {
       border-radius: 50%;
      width: 50%;
+     border: yellow dashed 6px;
   }
